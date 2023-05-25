@@ -40,4 +40,3 @@ build/
 ### Custom ###
 /test-output/
 ### Because it contains Bearer token ###
-testng.xml 
